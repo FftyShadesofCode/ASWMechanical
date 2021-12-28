@@ -478,9 +478,9 @@ a {
 
 #p4 .right-info i {
   margin-right: 10px;
-  color: black;
+  color: #3982E4;
 	text-shadow: 2px 2px 2px white;
-  font-size: 15px;
+  font-size: 25px;
   width: 34px;
   height: 34px;
   display: inline-block;
@@ -490,6 +490,7 @@ a {
 }
 
 #p4 .right-info i:hover {
+	font-size: 35px;
   -moz-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
   -webkit-transition: all 0.3s linear;
